@@ -1,0 +1,162 @@
+{
+    "account": [
+        { 
+            "number": "s123456@gmail.com",
+            "password": "s123456"
+        }
+    ],
+    "project": [
+        {
+            "title": "弈橙文化形象官網",
+            "img": "https://i.imgur.com/nfz7NSz.png",
+            "subTitle": "副標題內容",
+            "link": "http://jsycwh.cn/v2/yc_web/",
+            "content": "發想需求，設計平台UX操作流程，設計網站視覺UI、前端切版。",
+            "user": "UI設計師、前端切版、VUE前端"
+        },
+        {
+            "title": "AI餐廳系統",
+            "img": "https://i.imgur.com/dNclvv4.png",
+            "subTitle": "副標題內容",
+            "link": "http://demo.e-c.com.tw/html/ai-restaurant/",
+            "content": "使用裝置在平板Ipad上，餐廳防疫使用，可監測入內用餐人員記錄。",
+            "user": "UI設計師、前端切版"
+        },
+        {
+            "title": "弈橙文化形象官網_版本二(未套用)",
+            "img": "https://i.imgur.com/Mhn23t2.png",
+            "subTitle": "副標題內容",
+            "link": "http://demo.e-c.com.tw/html/NEC/",
+            "content": "發想需求，設計平台UX操作流程，設計網站視覺UI、前端切版。",
+            "user": "UI設計師、前端切版"
+        },
+        {
+            "title": "AI文博運營管理BI系統",
+            "img": "https://i.imgur.com/9Krptm8.png",
+            "subTitle": "副標題內容",
+            "link": "http://demo.e-c.com.tw/html/platform/",
+            "content": "設計平台入口網，依照客戶需求參考MAC選單介面製作平台視覺UI、前端切版。",
+            "user": "UI設計師、前端切版"
+        }
+    ],
+    "projectPageInfo": [
+        {
+            "title": "弈橙文化形象官網",
+            "img": "https://i.imgur.com/nfz7NSz.png",
+            "subTitle": "副標題內容",
+            "link": "http://jsycwh.cn/v2/yc_web/",
+            "content": "發想需求，設計平台UX操作流程，設計網站視覺UI、前端切版。",
+            "user": "UI設計師、前端切版、VUE前端"
+        },
+        {
+            "title": "AI餐廳系統",
+            "img": "https://i.imgur.com/dNclvv4.png",
+            "subTitle": "副標題內容",
+            "link": "http://demo.e-c.com.tw/html/ai-restaurant/",
+            "content": "使用裝置在平板Ipad上，餐廳防疫使用，可監測入內用餐人員記錄。",
+            "user": "UI設計師、前端切版"
+        },
+        
+        {
+            "title": "弈橙文化形象官網_版本二(未套用)",
+            "img": "https://i.imgur.com/Mhn23t2.png",
+            "subTitle": "副標題內容",
+            "link": "http://demo.e-c.com.tw/html/NEC/",
+            "content": "發想需求，設計平台UX操作流程，設計網站視覺UI、前端切版。",
+            "user": "UI設計師、前端切版"
+        },
+        {
+            "title": "AI文博運營管理BI系統",
+            "img": "https://i.imgur.com/9Krptm8.png",
+            "subTitle": "副標題內容",
+            "link": "http://demo.e-c.com.tw/html/platform/",
+            "content": "設計平台入口網，依照客戶需求參考MAC選單介面製作平台視覺UI、前端切版。",
+            "user": "UI設計師、前端切版"
+        },{
+            "title": "高雄市長期照顧中心",
+            "img": "https://i.imgur.com/LkUph27.png",
+            "subTitle": "副標題內容",
+            "link": "https://ltc.kchb.gov.tw/",
+            "content": "網站改版，設計網站視覺UI、前端切版及政府網站無障礙開發。",
+            "user": "UI設計師、前端切版"
+        },{
+            "title": "加水站衛生管理平台",
+            "img": "https://i.imgur.com/9HVwZTK.png",
+            "subTitle": "副標題內容",
+            "link": "http://demo.e-c.com.tw/html/water/",
+            "content": "系統網站改版，設計網站視覺UI、前端切版。",
+            "user": "UI設計師、前端切版"
+        },{
+            "title": "AI檢疫平台",
+            "img": "https://i.imgur.com/R7j6Kzk.png",
+            "subTitle": "副標題內容",
+            "link": "http://demo.e-c.com.tw/html/cctvweb/",
+            "content": "發想需求，設計平台UX操作流程，設計網站視覺UI、前端切版，因平台需求只在大型螢幕查看，請在PC上使用F11全螢幕查看此網站",
+            "user": "UI設計師、前端切版"
+        },{
+            "title": "優美窗簾形象網站",
+            "img": "https://i.imgur.com/iqnhLWt.png",
+            "subTitle": "副標題內容",
+            "link": "http://youmeicurtain.com/",
+            "content": "自行接案，優化網站SEO及網站結構化資料，替客戶規劃網站架構及需求，設計網站視覺UI、前端切版。",
+            "user": "UI設計師、前端切版"
+        },{
+            "title": "國立台灣史前文化博物館-文創資源加值網",
+            "img": "https://i.imgur.com/JkwYj2y.png",
+            "subTitle": "副標題內容",
+            "link": "https://ccl.nmp.gov.tw/",
+            "content": "網站客製化改版，重新設計網站視覺UI、前端切版。",
+            "user": "UI設計師、前端切版"
+        },{
+            "title": "暐創室內設計形象網站",
+            "img": "https://i.imgur.com/eGJ77qr.png",
+            "subTitle": "副標題內容",
+            "link": "http://www.weichun.com.tw/",
+            "content": "設計形象網站，規劃UX及設計UI，前端切版。",
+            "user": "UI設計師、前端切版"
+        },
+        {
+            "title": "2019岡山籃籗會",
+            "img": "https://i.imgur.com/RxI8qxi.png",
+            "subTitle": "副標題內容",
+            "link": "http://demo.e-c.com.tw/html/gangshan/",
+            "content": "設計一頁式活動網站，規劃網站架構、製作網站視覺UI、前端切版。",
+            "user": "UI設計師、前端切版"
+        },{
+            "title": "2019哈瑪星濱線祭",
+            "img": "https://i.imgur.com/QrqeV4X.png",
+            "subTitle": "副標題內容",
+            "link": "http://demo.e-c.com.tw/html/gushan/",
+            "content": "設計一頁式活動網站，規劃網站架構、製作網站視覺UI、前端切版。",
+            "user": "UI設計師、前端切版"
+        },{
+            "title": "民宿商旅設計",
+            "img": "https://i.imgur.com/bXR6e1e.png",
+            "subTitle": "副標題內容",
+            "link": "http://demo.e-c.com.tw/html/homestay/",
+            "content": "設計民宿及商旅使用，規劃民宿網站架構，製作網站視覺UI、前端切版。",
+            "user": "UI設計師、前端切版"
+        }
+    ],
+    "comments": [
+        { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+    "imgs": [
+        {
+            "src": "https://images.unsplash.com/photo-1606981000317-70c019a66af7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1000&ixlib=rb-1.2.1&q=80&w=1600"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1605447646356-d88eaad7c862?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1000&ixlib=rb-1.2.1&q=80&w=1600"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1605111247588-9e3af846a3c4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1000&ixlib=rb-1.2.1&q=80&w=1600"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1606652800972-53781a89016f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1000&ixlib=rb-1.2.1&q=80&w=1600"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1604953301572-54b68dff860d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1000&ixlib=rb-1.2.1&q=80&w=1600"
+        }
+    ]
+}
